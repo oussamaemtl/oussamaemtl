@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 - :alien: I worked in Transportation, luxury, cosmetics and energy sectors.
 - 👯 I’m looking to collaborate on subjects related to supply chain optimization or on energy load forecasting.
 - 🌱 I studied applied mathematics and data science at [CentraleSupélec](https://www.centralesupelec.fr/fr/classement-de-shanghai-2024-luniversite-paris-saclay-se-hisse-la-12eme-place-mondiale).
-- ⚡ Hobbies: I read books, sew my own clothes and train 6 times a week(swimming and weights)
+- ⚡ Hobbies: I read books, sew my own clothes and train 4/5 times a week(swimming and weights)
+
 
 ## 🏆 My Stats:
-
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaemtl&size_weight=0.5&count_weight=0.5)-->
 <p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=oussamaemtl&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaemtl&layout=compact&theme=dark" />&nbsp;&nbsp;
 </p>
-
-<!--![oussamaemtl's GitHub stats](https://github-readme-stats.vercel.app/api?username=oussamaemtl&show_icons=true)-->
