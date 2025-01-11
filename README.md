@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🏆 My Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaemtl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaemtl&layout=compact)
 <!--
 <p>
     <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussamaemtl&layout=compact&theme=dark" />&nbsp;&nbsp;
